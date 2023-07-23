@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Welcome to My Blog!"
+author: david
 categories: [HASEL]
 image: assets/images/demo1.jpg
-author: David
+
 ---
 ## Welcome to My Blog.
 After reading Atomic Habits by James Clear, I have decided to build what I’m coining as a Habitually Automated System for Engaged Learning (HASEL), where I will research at least one interesting subject per week (outside of those encountered in daily, academic, or professional endeavours).
