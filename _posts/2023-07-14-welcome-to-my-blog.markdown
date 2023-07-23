@@ -20,7 +20,7 @@ Rather paradoxically, this experiment will include my following of various propo
 
 ## Aims
 No experiment is without its aims. They are as follows:
-1.	Improve
+1.	Improve:
     1.	memory (storage and effective retrieval of knowledge)
     2.	processing speed (level at which the brain is capable of performing tasks)
     3.	decision-making (accuracy and verity of logic and reasoning)
