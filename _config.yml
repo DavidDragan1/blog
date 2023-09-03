@@ -4,7 +4,7 @@ description: 'This is my blog. I post here occasionally to keep my writing skill
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
+disqus: 'dd9blog'
 email: 'daviddragan377@gmail.com'
 #mailchimp-list: ''
 
@@ -21,11 +21,11 @@ plugins:
 authors:
     david:
       name:           David
-      site:           daviddragan.online
+      site:           https://daviddragan1.github.io/ddd
       avatar:         /assets/images/avatar1.jpg
       bio:            "I'm David, freelance web developer and lifelong student."
       email:          daviddragan377@gmail.com
-      #twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/daviddragan377
  
 # Defaults
 defaults:
@@ -35,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: david
       avatar: /assets/images/avatar1.jpg
       
   # all pages
