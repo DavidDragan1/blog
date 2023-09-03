@@ -4,7 +4,7 @@ description: 'This is my blog. I post here occasionally to keep my writing skill
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll'
-disqus: 'dd9blog'
+disqus: 'ddblog'
 email: 'daviddragan377@gmail.com'
 #mailchimp-list: ''
 
